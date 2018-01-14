@@ -1,0 +1,32 @@
+{
+  "name": "authoring_hw2",
+  "version": "1.0.0",
+  "description": "authoring homework 2",
+  "main": "main.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katherinebillings/authoring_hw2.git"
+  },
+  "keywords": [
+    "grunt",
+    "authoring",
+    "homework",
+    "flashback"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katherinebillings/authoring_hw2/issues"
+  },
+  "homepage": "https://github.com/katherinebillings/authoring_hw2#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1"
+  },
+  "dependencies": {
+    "grunt-contrib-uglify-es": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony"
+  }
+}
